@@ -8,7 +8,7 @@ Send, cd d:\school\SYP\3DHIF\KainPlan\website{enter}clear{enter}
 Send, ^+3
 Sleep, 300
 Send, cd /mnt/d/school/SYP/3DHIF/KainPlan/website{enter}clear{enter}
-Send, ^t
+Send, ^+1
 Sleep, 300
 Send, cd d:\school\SYP\3DHIF\KainPlan\api{enter}clear{enter}
 Send, ^+3
