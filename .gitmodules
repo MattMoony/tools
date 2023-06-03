@@ -52,3 +52,108 @@
 [submodule "d4v1d"]
 	path = d4v1d
 	url = https://github.com/MattMoony/d4v1d.git
+[submodule "dirsearch"]
+	path = dirsearch
+	url = https://github.com/maurosoria/dirsearch.git
+[submodule "dirtycow"]
+	path = dirtycow
+	url = https://github.com/firefart/dirtycow.git
+[submodule "dvcs-ripper"]
+	path = dvcs-ripper
+	url = https://github.com/kost/dvcs-ripper.git
+[submodule "enum4linux"]
+	path = enum4linux
+	url = https://github.com/CiscoCXSecurity/enum4linux.git
+[submodule "enum4linux-ng"]
+	path = enum4linux-ng
+	url = https://github.com/cddmp/enum4linux-ng.git
+[submodule "exploitdb"]
+	path = exploitdb
+	url = https://gitlab.com/exploit-database/exploitdb.git
+[submodule "flumberboozle"]
+	path = flumberboozle
+	url = https://github.com/fellchase/flumberboozle.git
+[submodule "fuzzhttpbypass"]
+	path = fuzzhttpbypass
+	url = https://github.com/carlospolop/fuzzhttpbypass.git
+[submodule "gef"]
+	path = gef
+	url = https://github.com/hugsy/gef.git
+[submodule "gef-extras"]
+	path = gef-extras
+	url = https://github.com/hugsy/gef-extras.git
+[submodule "GitTools"]
+	path = GitTools
+	url = https://github.com/internetwache/GitTools
+[submodule "glibc-all-in-one"]
+	path = glibc-all-in-one
+	url = https://github.com/matrix1001/glibc-all-in-one
+[submodule "Goohak"]
+	path = Goohak
+	url = https://github.com/1N3/Goohak
+[submodule "hash-identifier"]
+	path = hash-identifier
+	url = https://github.com/blackploit/hash-identifier
+[submodule "hl2-openvpn-ost.ch"]
+	path = hl2-openvpn-ost.ch
+	url = https://github.com/Hacking-Lab/hl2-openvpn-ost.ch
+[submodule "hsdecomp"]
+	path = hsdecomp
+	url = https://github.com/gereeter/hsdecomp
+[submodule "impacket"]
+	path = impacket
+	url = https://github.com/fortra/impacket
+[submodule "iphone-dataprotection"]
+	path = iphone-dataprotection
+	url = https://github.com/dinosec/iphone-dataprotection
+[submodule "jefferson"]
+	path = jefferson
+	url = https://github.com/onekey-sec/jefferson/
+[submodule "jexboss"]
+	path = jexboss
+	url = https://github.com/joaomatosf/jexboss
+[submodule "jwt_tool"]
+	path = jwt_tool
+	url = https://github.com/ticarpi/jwt_tool
+[submodule "lepton"]
+	path = lepton
+	url = https://github.com/BinaryResearch/lepton
+[submodule "logkeys"]
+	path = logkeys
+	url = https://github.com/kernc/logkeys
+[submodule "LSB-Steganography"]
+	path = LSB-Steganography
+	url = https://github.com/RobinDavid/LSB-Steganography
+[submodule "marshalsec"]
+	path = marshalsec
+	url = https://github.com/mbechler/marshalsec
+[submodule "moodlescan"]
+	path = moodlescan
+	url = https://github.com/inc0d3/moodlescan
+[submodule "mosint"]
+	path = mosint
+	url = https://github.com/alpkeskin/mosint
+[submodule "EMAGNET"]
+	path = EMAGNET
+	url = https://github.com/wuseman/EMAGNET
+[submodule "theHarvester"]
+	path = theHarvester
+	url = https://github.com/laramies/theHarvester
+[submodule "tmpmail"]
+	path = tmpmail
+	url = https://github.com/sdushantha/tmpmail
+[submodule "AccountGeneratorHelper"]
+	path = AccountGeneratorHelper
+	url = https://github.com/Dionis1902/AccountGeneratorHelper
+[submodule "nginxpwner"]
+	path = nginxpwner
+	url = https://github.com/stark0de/nginxpwner
+[submodule "nikto"]
+	path = nikto
+	url = https://github.com/sullo/nikto
+[submodule "patchelf"]
+	path = patchelf
+	url = https://github.com/NixOS/patchelf
+[submodule "p0wny-shell"]
+	path = p0wny-shell
+	url = https://github.com/flozz/p0wny-shell
