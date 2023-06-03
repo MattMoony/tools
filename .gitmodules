@@ -1,0 +1,3 @@
+[submodule "GHunt"]
+	path = GHunt
+	url = https://github.com/mxrch/GHunt.git
