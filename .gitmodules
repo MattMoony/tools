@@ -1,3 +1,54 @@
 [submodule "GHunt"]
 	path = GHunt
 	url = https://github.com/mxrch/GHunt.git
+[submodule "ApplySig"]
+	path = ApplySig
+	url = https://github.com/NWMonster/ApplySig.git
+[submodule "AWSBucketDump"]
+	path = AWSBucketDump
+	url = https://github.com/jordanpotti/AWSBucketDump.git
+[submodule "basecrack"]
+	path = basecrack
+	url = https://github.com/mufeedvh/basecrack.git
+[submodule "bettercap"]
+	path = bettercap
+	url = https://github.com/bettercap/bettercap.git
+[submodule "bfac"]
+	path = bfac
+	url = https://github.com/mazen160/bfac.git
+[submodule "bruteforce-salted-openssl"]
+	path = bruteforce-salted-openssl
+	url = https://github.com/glv2/bruteforce-salted-openssl.git
+[submodule "CeWL"]
+	path = CeWL
+	url = https://github.com/digininja/CeWL.git
+[submodule "Chankro"]
+	path = Chankro
+	url = https://github.com/TarlogicSecurity/Chankro.git
+[submodule "cloaked-pixel"]
+    path = cloaked-pixel
+    url = https://github.com/livz/cloacked-pixel.git
+[submodule "CMSScan"]
+	path = CMSScan
+	url = https://github.com/ajinabraham/CMSScan.git
+[submodule "cpu_rec"]
+	path = cpu_rec
+	url = https://github.com/airbus-seclab/cpu_rec.git
+[submodule "cloacked-pixel"]
+	path = cloacked-pixel
+	url = https://github.com/livz/cloacked-pixel.git
+[submodule "ctf-usb-keyboard-parser"]
+	path = ctf-usb-keyboard-parser
+	url = https://github.com/TeamRocketIst/ctf-usb-keyboard-parser.git
+[submodule "CVE-2019-11043"]
+	path = CVE-2019-11043
+	url = https://github.com/jas502n/CVE-2019-11043.git
+[submodule "CVE-2021-3156"]
+	path = CVE-2021-3156
+	url = https://github.com/CptGibbon/CVE-2021-3156.git
+[submodule "cwe_checker"]
+	path = cwe_checker
+	url = https://github.com/fkie-cad/cwe_checker.git
+[submodule "d4v1d"]
+	path = d4v1d
+	url = https://github.com/MattMoony/d4v1d.git
